@@ -1,0 +1,21 @@
+uuid: ea7cc8b4-9b23-4fc9-bcd9-ca3072cdbc39
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_size
+    - node.type.product_1
+  module:
+    - options
+id: node.product_1.field_size
+field_name: field_size
+entity_type: node
+bundle: product_1
+label: Size
+description: "26\r\n27\r\n28\r\n29\r\n30"
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_integer

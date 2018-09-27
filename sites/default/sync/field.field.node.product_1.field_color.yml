@@ -1,0 +1,21 @@
+uuid: 0d0c0fc7-3d33-485a-88a1-093bc09fea58
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_color
+    - node.type.product_1
+  module:
+    - options
+id: node.product_1.field_color
+field_name: field_color
+entity_type: node
+bundle: product_1
+label: Color
+description: "Brown|\r\nWhite|\r\nBlack|\r\nGray|"
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_integer

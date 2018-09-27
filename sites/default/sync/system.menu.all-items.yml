@@ -1,0 +1,8 @@
+uuid: 377813e8-cb21-430f-adb0-50397189185e
+langcode: en
+status: true
+dependencies: {  }
+id: all-items
+label: 'All items'
+description: ''
+locked: false

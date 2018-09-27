@@ -1,0 +1,9 @@
+uuid: e8b4e4d7-c2ec-4c2d-87dc-50615f18a85a
+langcode: en
+status: true
+dependencies: {  }
+name: Clothes
+vid: clothes
+description: ''
+hierarchy: 1
+weight: 0

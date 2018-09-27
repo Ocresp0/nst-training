@@ -1,0 +1,14 @@
+uuid: 7160e8d3-c31a-4386-b5a8-43f47766d69a
+name: 'B&P'
+mail: Services@wampserver.invalid
+slogan: 'Here you will find the season clothes'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
